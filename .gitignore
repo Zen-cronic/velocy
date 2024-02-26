@@ -6,3 +6,5 @@ node_modules/
 script.js
 assets/unscaled
 package-lock.json
+
+logger
